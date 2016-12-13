@@ -1,0 +1,45 @@
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin: 0;
+    /* bottom = footer height */
+}
+
+footer {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+#header, #footer {
+    background-color: #1E68B2;
+}
+
+#submit {
+    background-color: #BF3C33;
+}
+
+#add {
+    background-color: #1E68B2;
+}
+
+#reload {
+    background-color: #737F09;
+}
+
+#center {
+    background-color: white;
+}
+
+#input {
+    margin: 1em;
+}
+
+
+/*small {
+    color: black;
+}*/
